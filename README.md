@@ -154,3 +154,9 @@ This workbook is intended for concept-level engineering study and portfolio demo
 ## Intended Use
 
 This project demonstrates a structured approach to electrical engineering calculation, documentation, and traceability for DC auxiliary supply systems. It is suitable as a portfolio project for roles involving electrical design, power systems, protection and control, substations, power plants, renewable energy systems, and industrial electrical infrastructure.
+
+## Single-Line Diagram
+
+The repository includes an AutoCAD-compatible DXF single-line diagram for a concept-level 110 VDC auxiliary supply system. The drawing shows the 400 VAC auxiliary input, AC/DC charger, 110 VDC distribution board, battery bank, and outgoing DC feeders for protection relay panel, trip circuit, close circuit, SCADA/RTU, AVR/excitation auxiliary load, annunciation, and emergency DC loads.
+
+![DC Auxiliary Supply SLD](DC_Auxiliary_Supply_Professional_SLD_Corrected_preview.png)
